@@ -59,6 +59,6 @@ def exercise_2_6():
     print average_int(N)
 
 # Run exercises here:
-#exercise_2_3()
-#exercise_2_5()
+exercise_2_3()
+exercise_2_5()
 #exercise_2_6()
