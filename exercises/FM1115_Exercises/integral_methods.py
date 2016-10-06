@@ -26,6 +26,7 @@ def midpoint(f, a, b, n):
     sum *= h
     return sum
 
+
 # Unit tests
 def test_trapezoidal():    
     f = lambda x: 90*x**2 - 3*x**4
